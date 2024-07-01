@@ -75,3 +75,10 @@ suba_d/: Main Django project folder.
 suba_a/: Django app folder containing models, views, templates, and admin configuration.
 
 # output:
+![Screenshot (427)](https://github.com/subasree22/subacreoproject/assets/154589464/ed69efd7-9698-421a-91fe-1823cd2184ed)
+![Screenshot (428)](https://github.com/subasree22/subacreoproject/assets/154589464/259a5305-434f-4588-a187-a59ffed17364)
+![Screenshot (429)](https://github.com/subasree22/subacreoproject/assets/154589464/00ba75b0-0d9a-4c69-83a0-231d21d18f81)
+![Screenshot (430)](https://github.com/subasree22/subacreoproject/assets/154589464/e59bc7a2-2ea5-4182-a84a-80e9704ccab2)
+![Screenshot (431)](https://github.com/subasree22/subacreoproject/assets/154589464/b058b6ba-8c8d-48ef-a59d-2ca7b6927327)
+![Screenshot (431)](https://github.com/subasree22/subacreoproject/assets/154589464/3e1b1d79-696a-44d3-974f-c4e1e8f44c7d)
+![Screenshot (432)](https://github.com/subasree22/subacreoproject/assets/154589464/246ce84f-c0fc-4e0f-89c4-a523d37cee2c)
